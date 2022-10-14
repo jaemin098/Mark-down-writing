@@ -83,6 +83,16 @@
     * Git Commit ②
 * Git Push 😸
 
+### 소스 코드 블럭
+    ```c
+    #include <stdio.h>
+    
+    int main() {
+        printf("Hello world!");
+        return 0;
+     }
+     ```
+
 ## 참고 문서
 * [마크다운 markdown에 대해서 알아보자](https://velog.io/@kimhyeongi/about-markdown)
 * [마크다운(Markdown) 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)

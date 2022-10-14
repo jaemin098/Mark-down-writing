@@ -84,7 +84,7 @@
 * Git Push 😸
 
 ### 소스 코드 블럭
-    ```c
+    ``` c
     #include <stdio.h>
     
     int main() {

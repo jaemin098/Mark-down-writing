@@ -1,5 +1,5 @@
 마크 다운(Mark-down) 작성법
-==================================
+===========================
 > test repo
 
 > 마크 다운으로만 표현이 부족하다고 느껴지면 HTML 태그를 활용하여도 좋다.
@@ -88,7 +88,7 @@
     #include <stdio.h>
     
     int main() {
-        printf("Hello world!"); // 문자열 "Hello world!"를 
+        printf("Hello world!"); // 문자열 "Hello world!"를 출력
         return 0;
      }
 ```

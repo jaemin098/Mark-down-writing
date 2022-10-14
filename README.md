@@ -88,7 +88,7 @@
     #include <stdio.h>
     
     int main() {
-        printf("Hello world!");
+        printf("Hello world!"); // 문자열 "Hello world!"를 
         return 0;
      }
 ```

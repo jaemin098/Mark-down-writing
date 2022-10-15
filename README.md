@@ -68,9 +68,9 @@
     >       > This is a second blockquote.
     >       >       > This is a third blockquote.
     ```
-    > This is a first blockquote.
-    >       > This is a second blockquote.
-    >       >       > This is a third blockquote.
+> This is a first blockquote.
+>       > This is a second blockquote.
+>       >       > This is a third blockquote.
 
 이 안에서는 다른 마크 다운 요소를 포함할 수 있다.
 > ### This is a H3

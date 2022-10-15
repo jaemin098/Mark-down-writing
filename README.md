@@ -64,9 +64,9 @@
 이메일(e-mail)에서 사용하는 ```>``` 블럭 인용문자를 이용한다.
 
     ```
-    > This is a first blockquote.
-    >       > This is a second blockquote.
-    >       >       > This is a third blockquote.
+> This is a first blockquote.
+>       > This is a second blockquote.
+>       >       > This is a third blockquote.
     ```
 > This is a first blockquote.
 >       > This is a second blockquote.

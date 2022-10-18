@@ -223,6 +223,8 @@ public class BootSpringBootApplication {
 }
 ```
 
+**깃헙(Github)**에서는 코드블럭 코드("```") 시작점에 사용하는 언어를 선언하여 [문법강조(Syntax highlighting)](https://docs.github.com/en/github/writing-on-github/creating-and-highlighting-code-blocks#syntax-highlighting)이 가능하다.
+
 ## 2.5. 수평선 ```<hr/>```
 
 *****

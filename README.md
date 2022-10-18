@@ -176,6 +176,30 @@ end code block.
 *****
 
 ### 2.4.2. 코드블럭
+코드블럭은 다음과 같이 2가지 방식을 사용할 수 있다:
+
+* `<pre><code>{code}</code><pre>`을 이용하는 방식
+```
+<pre>
+<code>
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, world!");
+  }
+}
+</code>
+</pre>
+```
+
+<pre>
+<code>
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, world!");
+  }
+}
+</code>
+</pre>
 
 ## 2.5. 수평선 ```<hr/>```
 

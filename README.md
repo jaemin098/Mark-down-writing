@@ -235,6 +235,7 @@ public class BootSpringBootApplication {
 ```
 </code>
 </pre>
+
 ```java
 public class BootSpringBootApplication {
   public static void main(String[] args) {
@@ -245,6 +246,21 @@ public class BootSpringBootApplication {
 
 ## 2.5. 수평선 ```<hr/>```
 아래 줄은 모두 수평선을 만든다. 마크 다운 문서를 미리보기로 출력할 때 *페이지 나누기* 용도로 많이 사용한다.
+```
+* * *
+***
+*****
+- - -
+-------------------------------------------
+```
+
+* 적용 예
+* * *
+***
+*****
+- - -
+-------------------------------------------
+
 
 *****
 # 3장 마크 다운 사용기

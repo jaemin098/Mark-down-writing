@@ -273,6 +273,8 @@ Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 ```
+Link: [Google][googlelink]
+[googlelink]: https://www.google.com "Go google"
 
 * 외부 링크
 ```

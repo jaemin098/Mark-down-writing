@@ -273,6 +273,7 @@ Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 ```
+
 Link: [Google][googlelink]
 [googlelink]: https://www.google.com "Go google"
 
@@ -285,6 +286,11 @@ Link: [Google][googlelink]
 ```
 
 ``` 
+
+## 2.7. 강조
+```
+
+```
 
 *****
 # 3장 마크 다운 사용기

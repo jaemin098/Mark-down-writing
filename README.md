@@ -280,8 +280,10 @@ Link: [Google][googlelink]
 
 * 외부 링크
 ```
-
+사용 문법: [Title](link)
+적용 예: [Google](https://www.google.com, "google link")
 ```
+Link: [Google](https://www.google.com, "google link")
 
 * 자동 연결
 ```

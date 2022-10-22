@@ -65,20 +65,20 @@ HTML 등의 서식 문서들로 쉽게 변환되기 때문에 README 파일이�
 
 ```
 > This is a first blockquote.
->       > This is a second blockquote.
->       >       > This is a third blockquote.
+> > This is a second blockquote.
+> > > This is a third blockquote.
 ```
 
 > This is a first blockquote.
->       > This is a second blockquote.
->       >       > This is a third blockquote.
+> > This is a second blockquote.
+> > > This is a third blockquote.
 
 이 안에서는 다른 마크 다운 요소를 포함할 수 있다.
 > ### This is a H3
 > * List
->       ```
->       code
->       ```
+> ```
+> code
+> ```
 
 ## 2.3. 목록
 ### ● 순서 있는 목록(번호)

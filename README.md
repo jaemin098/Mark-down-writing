@@ -355,6 +355,14 @@ __double underscores__
 헤더 셀을 구분할 때 3개 이상의 ```-```(hyphen/dash) 기호가 필요하다.
 헤더 셀을 구분하면서 ```:```(colon) 기호로 셀(열/칸) 안에 내용을 정렬할 수 있다.
 가장 좌측과 가장 우측에 있는 ```|```(vertical bar) 기호는 생락이 가능하다.
+```
+| 값 | 의미 | 기본값 |
+| 'static' | 유형(기준) 없음 / 배치 불가능 | 'static' |
+| 'relative' | 요소 자신을 기준으로 배치 |  |
+| 'absolute' | 위치 상 부모(조상) 요소를 기준으로 배치 | |  |
+| 'fixed' | 브라우저 창을 기준으로 배치 |  |
+
+```
 
 
 *****
@@ -409,3 +417,4 @@ View 영역의 항목을 그대로 붙여넣거나 HTML 내보내기 등으로 �
 ## 참고 문서
 * [마크다운 markdown에 대해서 알아보자](https://velog.io/@kimhyeongi/about-markdown)
 * [마크다운(Markdown) 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+* [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)

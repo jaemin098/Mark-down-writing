@@ -398,9 +398,11 @@ __double underscores__
 
 ![Prunus](http://www.gstatic.com/webp/gallery/4.jpg)
 ```
+<u>마크다운에서 자원하지 않는 기능</u>을 사용할 때 유용하며 대부분 잘 동작합니다.
 
+<img width="150" src="http://www.gstatic.com/webp/gallery/4.jpg" alt="prunus" title="A Wild Cherry (Prunus avium) in flower"
 
-
+![Prunus](http://www.gstatic.com/webp/gallery/4.jpg)
 
 *****
 # 3장 마크 다운 사용기

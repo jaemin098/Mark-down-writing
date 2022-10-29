@@ -389,6 +389,19 @@ __double underscores__
 'absolute'|위치 상 **_부모_(조상)요소**를 기준으로 배치|
 'fixed'|**브라우저 창**을 기준으로 배치|
 
+## 원시 HTML(Raw HTML)
+마크다운 문법이 아닌 원시 HTML 문법을 사용할 수 있다.
+```
+<u>마크다운에서 자원하지 않는 기능</u>을 사용할 때 유용하며 대부분 잘 동작합니다.
+
+<img width="150" src="http://www.gstatic.com/webp/gallery/4.jpg" alt="prunus" title="A Wild Cherry (Prunus avium) in flower"
+
+![Prunus](http://www.gstatic.com/webp/gallery/4.jpg)
+```
+
+
+
+
 *****
 # 3장 마크 다운 사용기
 ## 3.1. 위지윅(WSYWIG) 에디터

@@ -339,7 +339,7 @@ __double underscores__
 <img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 <img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
 
-## 2.9. 줄바꿈
+## 2.9. 줄바꿈(Line Breaks)
 3칸 이상 띄어쓰기('   ')를 하면 줄이 바뀐다.
 ```
 * 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸 이상을 띄어쓰기해야 한다.   
@@ -347,6 +347,11 @@ __double underscores__
 
 * 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸 이상을 띄어쓰기해야 한다.___\\ 띄어쓰기
 이렇게
+
+동해물과 백두산이 마르고 닳도록  
+하느님이 보우하사 우리나라 만세  <!--띄어쓰기 2번-->
+무궁화 삼천리 화려 강산<br>
+대한 사람 대한으로 길이 보전하세
 ```
 
 * 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸 이상을 띄어쓰기해야 한다.    이렇게

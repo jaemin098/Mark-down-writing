@@ -254,6 +254,17 @@ public class BootSpringBootApplication {
 ```
 </code>
 
+<code>
+```javascript
+function func() {
+  var a = 'AAA';
+  return a;  
+```
+</code>
+
+
+
+
 </pre>
 
 ```java
@@ -272,6 +283,12 @@ public class BootSpringBootApplication {
 .list > li {
   position: absolute;
   top: 40px;
+```
+
+```javascript
+function func() {
+  var a = 'AAA';
+  return a;  
 ```
 
 ## 2.5. 수평선 ```<hr/>```

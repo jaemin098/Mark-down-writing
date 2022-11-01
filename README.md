@@ -262,9 +262,6 @@ function func() {
 ```
 </code>
 
-
-
-
 </pre>
 
 ```java

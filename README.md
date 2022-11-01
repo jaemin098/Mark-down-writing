@@ -239,6 +239,21 @@ public class BootSpringBootApplication {
 }
 ```
 </code>
+
+<code>
+```html
+<a href="https://www.google.com/" target="_blank">GOOGLE</a>
+```
+</code>
+
+<code>
+```css
+.list > li {
+  position: absolute;
+  top: 40px;
+```
+</code>
+
 </pre>
 
 ```java

@@ -262,6 +262,19 @@ function func() {
 ```
 </code>
 
+<code>
+```bash
+$ vim ./~zshrc
+
+```
+</code>
+
+<code>
+```python
+s = "Python syntax highlighting"
+print s
+```
+
 </pre>
 
 ```java

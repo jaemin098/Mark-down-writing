@@ -532,3 +532,4 @@ View 영역의 항목을 그대로 붙여넣거나 HTML 내보내기 등으로 �
 * [마크다운(Markdown) 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 * [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
 * [마크다운 - 표(테이블) 만들기](https://inasie.github.io/it%EC%9D%BC%EB%B0%98/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+* [마크다운(Markdown) 사용법2](https://goddaehee.tistory.com/307)

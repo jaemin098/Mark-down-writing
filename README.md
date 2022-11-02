@@ -265,7 +265,6 @@ function func() {
 <code>
 ```bash
 $ vim ./~zshrc
-
 ```
 </code>
 
@@ -274,6 +273,7 @@ $ vim ./~zshrc
 s = "Python syntax highlighting"
 print s
 ```
+</code> 
 
 </pre>
 
@@ -299,6 +299,15 @@ public class BootSpringBootApplication {
 function func() {
   var a = 'AAA';
   return a;  
+```
+
+```bash
+$ vim ./~zshrc
+```
+
+```python
+s = "Python syntax highlighting"
+print s
 ```
 
 ## 2.5. 수평선 ```<hr/>```

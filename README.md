@@ -363,7 +363,7 @@ Link: [Google](https://www.google.com, "google link")
 * 외부 링크: <http://www.example.com/>
 * 이메일 링크: <address@example.com>
 
-## 2.7. 강조
+## 2.7. 강조(Empahasis)
 ```
 이텔릭체는 *single asterisks*
 또는 _single underscores_ 사용
@@ -371,6 +371,7 @@ Link: [Google](https://www.google.com, "google link")
 또는 __double underscores__ 사용
 **_이텔릭체_와 두껍게**를 같이 사용 가능
 취소선은 ~~cancelline(tilde)~~ 사용
+<strike>취소선</strike> 또는 <s>strike</s> 또는 <del>del</del>
 밑줄은 <u>underline</u> `<u></u>` 사용
 ```
 

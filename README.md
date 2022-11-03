@@ -373,6 +373,7 @@ Link: [Google](https://www.google.com, "google link")
 취소선은 ~~cancelline(tilde)~~ 사용
 <strike>취소선</strike> 또는 <s>strike</s> 또는 <del>del</del>
 밑줄은 <u>underline</u> `<u></u>` 사용
+<span style="color:yellow">노란 글씨입니다.</span>
 ```
 
 * 이텔릭체는 *single asterisks*
@@ -383,6 +384,7 @@ Link: [Google](https://www.google.com, "google link")
 * 취소선은 ~~cancelline(tilde)~~ 사용
 * <strike>취소선</strike> 또는 <s>strike</s> 또는 <del>del</del>
 * 밑줄은 <u>underline</u> `<u></u>` 사용
+* <span style="color:yellow">노란 글씨입니다.</span>
 
 > ```문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.```   
 > 문장 중간에 사용할 경우에는 띄어쓰기를 사용하는 것이 좋다.

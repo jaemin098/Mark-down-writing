@@ -381,6 +381,7 @@ Link: [Google](https://www.google.com, "google link")
 * 또는 __double underscores__ 사용
 * **_이텔릭체_와 두껍게**를 같이 사용 가능
 * 취소선은 ~~cancelline(tilde)~~ 사용
+* <strike>취소선</strike> 또는 <s>strike</s> 또는 <del>del</del>
 * 밑줄은 <u>underline</u> `<u></u>` 사용
 
 > ```문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.```   

@@ -7,7 +7,7 @@
 
 # 1장 마크 다운에 대하여
 ## 1.1. 마크 다운이란?
-마크 다운(Mark-down)은 일반 텍스트 기반의 경량 마크업 언어이다. 2004년 존 그루버에 의해 만들어졌으며, 쉽게 읽고 쓸 수 있으며 HTML로 변환이 가능하다. 특수기호와 문자를 이용한 매우 간단한 구조의 문법을 사용하여 웹에서도 보다 빠르게 컨텐츠를 작성할 수 있고 직관적으로 인식할 수 있다. 마크업 언어란, 태그 등을 이용하여 문서나 데이터의 구조 등을 명기하는 언어의 한 가지이다.
+마크 다운(Mark-down)은 일반 텍스트 기반의 경량 마크업 언어이다. 2004년 존 그루버에 의해 만들어졌으며, 쉽게 읽고 쓸 수 있으며 HTML로 변환이 가능하다. 특수기호와 문자를 이용한 매우 간단한 구조의 문법을 사용하여 웹에서도 보다 빠르게 컨텐츠를 작성할 수 있고 직관적으로 인식할 수 있다.   마크업 언어란, 태그 등을 이용하여 문서나 데이터의 구조 등을 명기하는 언어의 한 가지이다.
 텍스트만으로 서식이 있는 문서들을 작성할 때 자주 사용되며, 다른 마크업 언어들에 비해 문법이 쉽고 간단한 것이 특징이다.
 HTML 등의 서식 문서들로 쉽게 변환되기 때문에 README 파일이나 온라인 게시물 등에 사용된다.
 
@@ -364,18 +364,22 @@ Link: [Google](https://www.google.com, "google link")
 
 ## 2.7. 강조
 ```
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+이텔릭체는 *single asterisks*
+또는 _single underscores_ 사용
+두껍게(bold)는 **double asterisks**
+또는 __double underscores__ 사용
+**_이텔릭체_와 두껍게**를 같이 사용 가능
+취소선은 ~~cancelline(tilde)~~ 사용
+밑줄은 <u>underline</u> `<u></u>` 사용
 ```
 
-* *single asterisks*
-* _single underscores_
-* **double asterisks**
-* __double underscores__
-* ~~cancelline~~
+이텔릭체는 *single asterisks*
+또는 _single underscores_ 사용
+두껍게(bold)는 **double asterisks**
+또는 __double underscores__ 사용
+**_이텔릭체_와 두껍게**를 같이 사용 가능
+취소선은 ~~cancelline(tilde)~~ 사용
+밑줄은 <u>underline</u> `<u></u>` 사용
 
 > ```문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.```   
 > 문장 중간에 사용할 경우에는 띄어쓰기를 사용하는 것이 좋다.

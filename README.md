@@ -507,6 +507,16 @@ Link: [Google](https://www.google.com, "google link")
 
 ![Prunus](http://www.gstatic.com/webp/gallery/4.jpg)
 
+## Backslash Escapes
+특수문자를 표현할 때에는 표시될 문자 앞에 ```\```를 넣고 표현할 특수문자를 적는다. 
+```
+* 특수문자 출력 안 됨
+- 특수문자 출력 안 됨
+
+\* 특수문자 출력 됨
+\- 특수문자 출력 됨
+```
+
 *****
 # 3장 마크 다운 사용기
 ## 3.1. 위지윅(WSYWIG) 에디터

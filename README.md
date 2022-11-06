@@ -532,6 +532,14 @@ Link: [Google](https://www.google.com, "google link")
 
 \- 특수문자 출력 됨
 
+## 체크 리스트(Check List)
+* `- [x]`를 적어서 완료된 리스트를 표시한다.
+* `- []`를 적어서 미완료된 리스트를 표시한다.
+```
+- [x] This is a complete item
+- [ ] This is an incomplete item
+```
+
 *****
 # 3장 마크 다운 사용기
 ## 3.1. 위지윅(WSYWIG) 에디터

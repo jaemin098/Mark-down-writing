@@ -91,7 +91,6 @@ HTML 등의 서식 문서들로 쉽게 변환되기 때문에 README 파일이�
 ### ● 순서 있는 목록(Ordered List)
 순서 있는 목록(번호)은 숫자와 점을 사용한다.
 
-들여쓰기를 하면 모양이 바뀐다.
 ```
 1. 첫 번째
 2. 두 번째
@@ -104,10 +103,6 @@ HTML 등의 서식 문서들로 쉽게 변환되기 때문에 README 파일이�
 1. 첫 번째
 2. 두 번째
 3. 세 번째
-
-1. 첫 번째
-    2. 두 번째
-        3. 세 번째
 
 **현재까지는 어떤 번호를 입력해도 순서는 내림차 순으로 정의된다.**
 ```
@@ -592,3 +587,4 @@ View 영역의 항목을 그대로 붙여넣거나 HTML 내보내기 등으로 �
 * [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
 * [마크다운 - 표(테이블) 만들기](https://inasie.github.io/it%EC%9D%BC%EB%B0%98/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [마크다운(Markdown) 사용법2](https://goddaehee.tistory.com/307)
+* [마크다운 작성 문법 정리](https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC)

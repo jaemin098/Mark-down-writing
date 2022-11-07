@@ -539,6 +539,8 @@ Link: [Google](https://www.google.com, "google link")
 - [x] This is a complete item
 - [ ] This is an incomplete item
 ```
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
 *****
 # 3장 마크 다운 사용기

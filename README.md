@@ -400,7 +400,7 @@ Link: [Google](https://www.google.com, "google link")
 **_이텔릭체_와 두껍게**를 같이 사용 가능
 취소선은 ~~cancelline(tilde)~~ 사용
 <strike>취소선</strike> 또는 <s>strike</s> 또는 <del>del</del>
-밑줄은 <u>underline</u> `<u></u>` 사용
+밑줄은 <U>underline</U> `<U></U>` 사용
 <font color='#1E90FF'>dodgerblue 폰트 색입니다.</font>
 ```
 
@@ -411,7 +411,7 @@ Link: [Google](https://www.google.com, "google link")
 * **_이텔릭체_와 두껍게**를 같이 사용 가능
 * 취소선은 ~~cancelline(tilde)~~ 사용
 * <strike>취소선</strike> 또는 <s>strike</s> 또는 <del>del</del>
-* 밑줄은 <u>underline</u> `<u></u>` 사용
+* 밑줄은 <U>underline</U> `<U></U>` 사용
 * <font color='#1E90FF'>dodgerblue 폰트 색입니다.</font>
 
 > ```문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.```   
@@ -499,7 +499,7 @@ Link: [Google](https://www.google.com, "google link")
 'absolute'|위치 상 **_부모_(조상)요소**를 기준으로 배치|
 'fixed'|**브라우저 창**을 기준으로 배치|
 
-## 원시 HTML(Raw HTML)
+## 2.11. 원시 HTML(Raw HTML)
 마크다운 문법이 아닌 원시 HTML 문법을 사용할 수 있다.
 ```
 <u>마크다운에서 자원하지 않는 기능</u>을 사용할 때 유용하며 대부분 잘 동작합니다.
@@ -515,7 +515,7 @@ Link: [Google](https://www.google.com, "google link")
 
 ![Prunus](http://www.gstatic.com/webp/gallery/4.jpg)
 
-## Backslash Escapes
+## 2.12. Backslash Escapes
 특수문자를 표현할 때에는 표시될 문자 앞에 ```\```를 넣고 표현할 특수문자를 적는다. 
 ```
 * 특수문자 출력 안 됨

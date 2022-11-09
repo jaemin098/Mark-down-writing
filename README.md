@@ -381,7 +381,9 @@ Link: [Google][googlelink]
 Link: [Google](https://www.google.com, "google link")
 
 * 내부(해시) 링크
+
 [보여지는 내용](#이동할 헤드(제목))
+
 괄호 안의 링크를 쓸 때는 **띄어쓰기는 -로 연결**, 영어는 모두 **소문자**로 작성한다.
 ```
 [1. Hearders 헤더](#1-header-헤더)
@@ -392,6 +394,8 @@ Link: [Google](https://www.google.com, "google link")
 ```
 
 * 자동 연결
+
+꺽쇠 괄호가 없어도 자동으로 링크를 사용한다.
 ```
 일반적인 URL 혹은 이메일 주소인 경우 적절한 형식으로 링크를 형성한다.
 

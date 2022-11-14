@@ -424,11 +424,12 @@ Link: [Google](https://www.google.com, "google link")
 [3. Blockquotes 인용](#3-blockquotes-인용)
 ```
 
-* 자동 연결
+* 자동 연결(자동 링크)
 
 꺽쇠 괄호가 없어도 자동으로 링크를 사용한다.
 ```
 일반적인 URL 혹은 이메일 주소인 경우 적절한 형식으로 링크를 형성한다.
+<link Address>
 
 * 외부 링크: <http://www.example.com/>
 * 이메일 링크: <address@example.com>
@@ -438,15 +439,17 @@ Link: [Google](https://www.google.com, "google link")
 * 이메일 링크: <address@example.com>
 
 ## 2.7. 강조(Empahasis)
+본문의 특정 문자에 서식(볼드, 이텔릭, 밑줄, 취소선)을 적용해 강조할 수 있다.
 ```
 이텔릭체는 *single asterisks*
 또는 _single underscores_ 사용
 두껍게(bold)는 **double asterisks**
 또는 __double underscores__ 사용
-**_이텔릭체_와 두껍게**를 같이 사용 가능
+***tripple asterisks 이텔릭체와 두껍게***를 같이 사용 가능
+___tripple underscores 볼드+이텔릭체___
 취소선은 ~~cancelline(tilde)~~ 사용
 <strike>취소선</strike> 또는 <s>strike</s> 또는 <del>del</del>
-밑줄은 <U>underline</U> `<U></U>` 사용
+밑줄은 <u>underline</u> `<u></u>` 사용
 <font color='#1E90FF'>dodgerblue 폰트 색입니다.</font>
 ```
 
@@ -457,8 +460,6 @@ Link: [Google](https://www.google.com, "google link")
 * **_이텔릭체_와 두껍게**를 같이 사용 가능
 * 취소선은 ~~cancelline(tilde)~~ 사용
 * <strike>취소선</strike> 또는 <s>strike</s> 또는 <del>del</del>
-* 밑줄은 <U>underline</U> `<U></U>` 사용
-* <font color='#1E90FF'>dodgerblue 폰트 색입니다.</font>
 
 > ```문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.```   
 > 문장 중간에 사용할 경우에는 띄어쓰기를 사용하는 것이 좋다.

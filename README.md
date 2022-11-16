@@ -289,6 +289,8 @@ public class BootSpringBootApplication {
 ```
 
 **깃헙(Github)** 에서는 코드블럭 코드("```") 시작점에 사용하는 언어를 선언하여 [문법강조(Syntax highlighting)](https://docs.github.com/en/github/writing-on-github/creating-and-highlighting-code-blocks#syntax-highlighting)가 가능하다.
+
+언어별 문법강조 코드는 [highlight.js](https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md)를 참조한다.
 <pre>
 <code>
 ```java
@@ -297,13 +299,13 @@ public class BootSpringBootApplication {
     System.out.println("Hello, world!");
   }
 }
-```
+``` // java 코드 강조
 </code>
 
 <code>
 ```html
 <a href="https://www.google.com/" target="_blank">GOOGLE</a>
-```
+``` // html 코드 강조
 </code>
 
 <code>
@@ -311,7 +313,7 @@ public class BootSpringBootApplication {
 .list > li {
   position: absolute;
   top: 40px;
-```
+``` // css 코드 강조
 </code>
 
 <code>
@@ -319,22 +321,21 @@ public class BootSpringBootApplication {
 function func() {
   var a = 'AAA';
   return a;  
-```
+``` // javascript 코드 강조
 </code>
 
 <code>
 ```bash
 $ vim ./~zshrc
-```
-</code>
+``` // bash 코드 강조
+</code> 
 
 <code>
 ```python
 s = "Python syntax highlighting"
 print s
-```
+``` // python 코드 강
 </code> 
-
 </pre>
 
 ```java
@@ -396,12 +397,10 @@ print s
 [id]: URL "Optional Title here"
 // code
 Link: [Google][googlelink]
-
 [googlelink]: https://google.com "Go google"
 ```
 
 Link: [Google][googlelink]
-
 [googlelink]: https://www.google.com "Go google"
 
 * 외부 링크

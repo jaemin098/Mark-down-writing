@@ -147,7 +147,7 @@ HTML, 리치 텍스트(RTF) 등의 서식 문서들로 쉽게 변환되기 때�
   - 녹색
     - 파랑
 
-혼합해서 사용하는 것도 가능하다.
+혼합해서 사용하는 것도 가능하다. 단, 표시하는 방식은 viewer마다 차이가 있을 수 있다.
 ```
 * 1단계
   - 2단계
@@ -476,10 +476,14 @@ Link: [Google](https://www.google.com, "google link")
 ```
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
+
+// 이미지에 링크 걸기
+[![대체 텍스트](https://imageurl "모델Y 이미지")](https://linkURL)
 ```
 
 ![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0)
 ![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "RubberDuck")
+
 
 사이즈 조절 기능은 없기 때문에 ```<img width="" height=""></img>```을/를 이용한다.
 

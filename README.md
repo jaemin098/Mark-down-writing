@@ -243,6 +243,21 @@ end code block.
 *****
 
 ### 2.4.2. 코드블럭
+코드 블록을 생성하려면 블록의 모든 행을 최소 4개의 공백 또는 하나의 탭만큼 들여쓴다.
+
+4개의 공백 또는 하나의 탭으로 들여쓰기를 만나면 들여쓰기를 하지 않은 행을 만날 때까지 코드블럭으로 인식된다.
+
+```
+This is a normal paragraph
+
+    <html>
+      <head>
+        <title>This is a codeblock</title>
+      </head>
+
+This is a normal paragraph
+```
+
 코드블럭은 다음과 같이 2가지 방식을 사용할 수 있다:
 
 * `<pre><code>{code}</code><pre>`을/를 이용하는 방법

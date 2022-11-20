@@ -676,3 +676,4 @@ View 영역의 항목을 그대로 붙여넣거나 HTML 내보내기 등으로 �
 * [마크다운 - 표(테이블) 만들기](https://inasie.github.io/it%EC%9D%BC%EB%B0%98/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [마크다운(Markdown) 사용법2](https://goddaehee.tistory.com/307)
 * [마크다운 작성 문법 정리](https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC)
+*  [마크다운 문법의 기본적인 사용방법](https://comeinsidebox.com/markdown/)

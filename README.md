@@ -258,6 +258,15 @@ This is a normal paragraph
 This is a normal paragraph
 ```
 
+This is a normal paragraph
+
+    <html>
+      <head>
+        <title>This is a codeblock</title>
+      </head>
+
+This is a normal paragraph
+
 코드블럭은 다음과 같이 2가지 방식을 사용할 수 있다:
 
 * `<pre><code>{code}</code><pre>`을/를 이용하는 방법

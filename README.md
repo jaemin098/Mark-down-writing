@@ -267,6 +267,7 @@ This is a normal paragraph
 
 This is a normal paragraph
 
+* HTML로 작성
 ```
     <code>
       <html>
@@ -275,6 +276,13 @@ This is a normal paragraph
         </head>
     </code>
 ```
+
+    <code>
+      <html>
+        <head>
+          <title>This is a codeblock</title>
+        </head>
+    </code>
 
 코드블럭은 다음과 같이 2가지 방식을 사용할 수 있다:
 

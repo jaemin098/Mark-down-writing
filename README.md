@@ -309,6 +309,8 @@ public class BootSpringBootApplication {
 </code>
 </pre>
 
+백틱("`") 3개로 블럭의 앞과 뒤를 감싸도 적용된다. 백틱은 키보드의 틸드("~")와 함께 위치한 문자이다.
+
 * 코드블럭 코드("```")을/를 이용하는 방법
 
 <pre>

@@ -118,6 +118,22 @@ HTML, 리치 텍스트(RTF) 등의 서식 문서들로 쉽게 변환되기 때�
   2. 두 번째
     3. 세 번째
 ```
+
+HTML
+```
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item
+    <ol>
+      <li>Indented item1</li>
+      <li>Indented item2</li>
+    </ol>
+  </li>
+  <li>Fourth item</li>
+</ol>
+```
+
 1. 첫 번째
 2. 두 번째
 3. 세 번째

@@ -170,6 +170,21 @@ HTML
     - 파랑
 ```
 
+HTML
+```
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item
+    <ul>
+      <li>Indented item1</li>
+      <li>Indented item2</li>
+    </ul>
+  </li>
+  <li>Forth item</li>
+</ul>
+```
+
 * 빨강
   * 녹색
     * 파랑

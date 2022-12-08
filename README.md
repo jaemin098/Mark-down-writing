@@ -475,7 +475,7 @@ This is `InlineCode`
 This is <code>InlineCode</code>
 ```
 
-## 2.5. 수평선 ```<hr/>```
+## 2.5. 수평선(Horizontal Rules) ```<hr/>```
 아래 줄은 모두 수평선을 만든다. 마크 다운 문서를 미리보기로 출력할 때 *페이지 나누기* 용도로 많이 사용한다.
 ```
 * * *

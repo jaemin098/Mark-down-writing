@@ -494,6 +494,14 @@ This is <code>InlineCode</code>
 - - -
 -------------------------------------------
 
+주의
+```
+This is normal paragraph
+___
+This is normal paragraph
+```
+
+
 ## 2.6. 링크
 * 참조 링크
 ```

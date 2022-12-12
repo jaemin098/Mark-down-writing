@@ -502,6 +502,16 @@ This is normal paragraph
 ```
 이와 같이 수펑선 기호 전후에 공백 줄(line)이 없는 경우 적용되지 않을 수 있다.
 
+```
+
+This is normal paragraph
+
+___
+
+This is normal paragraph
+```
+의도한 출력을 만들기 위해 이와 같이 수평선 전후에 공백을 넣는다.
+
 ## 2.6. 링크
 * 참조 링크
 ```

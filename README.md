@@ -625,6 +625,7 @@ Link: [Google](https://www.google.com, "google link")
 <img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
 
 ## 2.9. 줄바꿈(Line Breaks)
+단락이 바뀌는 줄바꿈, 단락을 유지하면서 줄만 바꾸는 줄바꿈 이렇게 두 가지 줄바꿈이 있다.
 3칸 이상 띄어쓰기('   ')를 하면 줄이 바뀐다.
 ```
 * 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸 이상을 띄어쓰기해야 한다.   

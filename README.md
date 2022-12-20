@@ -734,6 +734,13 @@ Link: [Google](https://www.google.com, "google link")
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
+## 하이라이트(Highlight)
+일부 마크다운에서는 특정 영역을 형광펜을 사용한 것처럼 하이라이트 처리를 할 수 있다.
+```
+This is ==Highlight==
+```
+This is ==Highlight==
+
 *****
 # 3장 마크 다운 사용기
 마크다운 에디터는 메모장 등 어떤 에디터를 사용해도 무방하다. 다만, 미리보기 기능 존재여부에 따라서 사용성에 큰 차이가 나기 때문에 미리보기 기능이 있는 에디터를 사용하는 것이 좋다.

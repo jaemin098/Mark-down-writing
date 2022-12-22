@@ -708,6 +708,8 @@ Link: [Google](https://www.google.com, "google link")
 ![Prunus](http://www.gstatic.com/webp/gallery/4.jpg)
 
 ## 2.12. Backslash Escapes
+마크다운에서 사용되는 서식(기호)들을 표기(Rendered Output)해야 하는 때가 있다.
+
 특수문자를 표현할 때에는 표시될 문자 앞에 ```\```을/를 넣고 표현할 특수문자를 적는다. 
 ```
 * 특수문자 출력 안 됨

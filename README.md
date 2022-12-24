@@ -1,7 +1,7 @@
 마크 다운(Mark-down) 작성법
 ===========================
 > 조금 더 상세한 마크다운 사용법을 공부하려면
-> "Markdown Guide (https://www.markdownguide.org/)" (영어)를 참조하면 좋다.
+> "Markdown Guide (https://www.markdownguide.org/)" (영어)를 참조한다.
 
 > 마크 다운 문서를 작성할 때 마크 다운만으로는 서식 표현이 부족하다면 마크 다운 표기법과 HTML 태그를 같이 활용할 수 있다.
 

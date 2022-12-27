@@ -785,15 +785,6 @@ View 영역의 항목을 그대로 붙여넣거나 HTML 내보내기 등으로 �
     * Git Commit ②
 * Git Push 😸
 
-### 소스 코드 블럭
-```c
-    #include <stdio.h>
-    
-    int main() {
-        printf("Hello world!"); // 문자열 "Hello world!"를 출력
-        return 0;
-     }
-```
 
 ## 참고 문서
 * [마크다운 markdown에 대해서 알아보자](https://velog.io/@kimhyeongi/about-markdown)

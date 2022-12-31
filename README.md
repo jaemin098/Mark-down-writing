@@ -109,6 +109,9 @@ HTML, 리치 텍스트(RTF) 등의 서식 문서들로 쉽게 변환되기 때�
 > This is BlockQuote
 ```
 
+> This is BlockQuote
+>
+> This is BlockQuote
 
 빈 줄이 포함되어 있어도 정상적으로 적용된다.
 

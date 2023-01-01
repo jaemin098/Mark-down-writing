@@ -612,6 +612,8 @@ Link: [Google](https://www.google.com, "google link")
 `<img>` 태그를 사용해서 본문에 이미지를 삽입할 수 있다.
 
 ## 2.8. 이미지
+이미지 파일이 위치한 경로 또는 링크를 추가하면 이미지를 출력할 수 있다.
+
 ```
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")

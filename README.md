@@ -799,6 +799,8 @@ View 영역의 항목을 그대로 붙여넣거나 HTML 내보내기 등으로 �
     * Git Commit ①
     * Git Commit ②
 * Git Push 😸
+* This is tent :tent:
+* This is joy! :joy:
 
 
 ## 참고 문서
